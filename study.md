@@ -28,3 +28,17 @@ You may want to submit pictures for your wireframes and/or user stories.
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 has instructions to link to a picture you've uploaded to a service like [Imgur]
 (http://imgur.com/).
+
+1-http://imgur.com/a/OZrMb
+2- As a data structure I will be using Json.
+3-  I think about comoing up with a certain js logic to implement in the game. Right now I am not certain.
+4- I will seperating the concerns and solve the problems one at a time.
+5- a) I want players to signup
+   b) Signed players must sign in to play
+   c) Signed player cloud click the squares
+   d) Game must start with 'x' and each time should shift between "x and "o'
+   e) When xs or os aligned horizontoly, vertically or diagonal the game must over or if condition does not happen it should be a draw.
+6- I would diffenciete with API,UI,EVENTS.
+7- I woudl like to play with style of the buttons and figure and would like to add animation for clicking event for x and o
+8-I will be using commit in certain periods to see my status and all the changes that I made trough project.
+9 - If I can manage to finish the project before due date I will definetely try it.
